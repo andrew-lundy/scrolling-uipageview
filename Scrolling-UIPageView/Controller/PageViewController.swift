@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  PageViewController.swift
 //  Scrolling-UIPageView
 //
 //  Created by Andrew Lundy on 1/31/21.
@@ -7,15 +7,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class PageViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .red
-    }
 
-    
+        // Do any additional setup after loading the view.
+    }
     
 
 }
-
